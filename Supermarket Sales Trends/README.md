@@ -83,5 +83,5 @@ This project is licensed under [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Harjot / Iris
 
